@@ -1,11 +1,20 @@
-### Hi there! I'm Kauê 😁
+## Hi there! I'm Kauê 😁
 ✔ I’m currently studiyng Computer Engineering at UTFPR - Pato Branco
 
 ##
-  
+
+### My Github Stats
+
 <div align="center">
   <a href="https://github.com/fireskazy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fireskazy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fireskazy&theme=tokyonight" alt="mystreak"/>
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/fireskazy">
+  <img height="180em" src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"/>
 </div>
 
 ##
@@ -17,3 +26,4 @@
   <a href="https://www.linkedin.com/in/kauesmauri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
