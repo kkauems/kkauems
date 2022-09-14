@@ -1,5 +1,5 @@
-### Hello! I'm Kauê 😁
-✔ I’m currently studiyng -> Computer Engineering
+### Hi there! I'm Kauê 😁
+✔ I’m currently studiyng Computer Engineering at UTFPR - Pato Branco
 
 ##
   
