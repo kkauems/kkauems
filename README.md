@@ -1,7 +1,7 @@
 ## Hi there! I'm Kauê 😁
-✔ I'm currently studying Computer Engineering at UTFPR - Pato Branco
+✔ I'm currently studying Computer Engineering at UTFPR - Pato Branco and working in software development.
 
-✔ I'm learning Java, C and other programming languages as well.
+✔ I'm learning Java, JavaScript, C and other programming languages as well.
 
 ##
 
