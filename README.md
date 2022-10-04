@@ -1,5 +1,6 @@
 ## Hi there! I'm Kauê 😁
-✔ I’m currently studiyng Computer Engineering at UTFPR - Pato Branco
+✔ I'm currently studying Computer Engineering at UTFPR - Pato Branco
+✔ I'm learning Java, C and other programming languages as well.
 
 ##
 
@@ -7,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/fireskazy">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fireskazy&theme=tokyonight" alt="mystreak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kkauems&theme=tokyonight" alt="mystreak"/>
 </div>
 
 ##
