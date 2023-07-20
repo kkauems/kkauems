@@ -13,13 +13,6 @@
 </div>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/fireskazy">
-  <img height="180em" src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"/>
-</div>
-
-##
  
 <div> 
 
