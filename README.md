@@ -1,15 +1,24 @@
 ## Hi there! I'm Kauê 😁
-✔ I'm currently studying Computer Engineering at UTFPR - Pato Branco and working in software development.
+✔ I'm currently studying Computer Engineering at UTFPR - Pato Branco.
 
-✔ I'm learning Java, JavaScript, TypeScript, ReactJS and other programming languages as well.
+✔ Web Developer, specializing in ReactJS and NextJS at OCCAM Engenharia.
+
+✔ UI/UX Designer and Marketing Advisor at OCCAM Engenharia.
 
 ##
 
 ### My Github Stats
 
 <div align="center">
-  <a href="https://github.com/fireskazy">
+  <a href="https://github.com/kkauems">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kkauems&theme=tokyonight" alt="mystreak"/>
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/kkauems">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkauems&layout=compact&hide=Portugol&theme=tokyonight" alt="toplanguages"/>
 </div>
 
 ##
