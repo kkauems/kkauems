@@ -1,7 +1,7 @@
 ## Hi there! I'm Kauê 😁
 ✔ I'm currently in my 4th year studying Computer Engineering at UTFPR - Pato Branco.
 
-✔Frontend Developer, specializing in ReactJS and NextJS at OCCAM Engenharia.
+✔ Frontend Developer, specializing in ReactJS and NextJS at OCCAM Engenharia.
 
 ✔ CMO (Chief Marketing Officer) at OCCAM Engenharia.
 
