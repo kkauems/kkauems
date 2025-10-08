@@ -1,7 +1,7 @@
 ## Hi there! I'm Kauê 😁
-✔ I'm currently in my 4th year studying Computer Engineering at UTFPR - Pato Branco.
+✔ I'm currently in my 5th year studying Computer Engineering at UTFPR - Pato Branco.
 
-✔ Fullstack Developer at Compass UOL, using React and Springboot.
+✔ Fullstack Developer, using React and Springboot.
 
 ✔ Researcher at Biometria Neonatal UTFPR, using Python.
 
